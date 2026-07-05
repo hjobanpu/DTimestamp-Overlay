@@ -22,7 +22,7 @@ Once installed and enabled, the extension automatically injects the timestamp ov
 Contributions (https://buymeacoffee.com/hjobanpu), issues, and feature requests are welcome. Feel free to check the [issues page]( https://github.com/hjobanpu/DTimestamp-Overlay/issues ) if you want to contribute.
 
 
-## Following uick start guide explains how to configure and place the DTimestamp Overlay Chrome extension settings
+## Following Quick start guide explains how to configure and place the DTimestamp Overlay Chrome extension settings
 *  Global Controls & Preview: 
     Master Toggle: Use the switch in the top right corner to instantly turn the overlay ON or OFF across your browser.
 
