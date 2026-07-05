@@ -57,9 +57,8 @@ Contributions (https://buymeacoffee.com/hjobanpu), issues, and feature requests 
     *  Style & Weight: Use the buttons to select a font style (Mono, Sans, Serif, or Rounded) and text thickness (Light to Bold).
     *  Fine-tuning Sliders: Adjust the sliders to easily change the text Size (in pixels), Brightness, and Opacity to make it as visible or subtle as you need.
  
-*  <img width="338" height="602" alt="image" src="https://github.com/user-attachments/assets/5c77bfca-333d-47d0-bf07-7f5511becd97" />
+*  <img width="323" height="1070" alt="image" src="https://github.com/user-attachments/assets/1282c52b-6525-4a83-86ef-b963c23a9a18" />
 
-* <img width="340" height="472" alt="image" src="https://github.com/user-attachments/assets/cab54cf9-c2f6-4678-838f-da279e6c8554" />
 
 
 
